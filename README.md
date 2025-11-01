@@ -8,11 +8,6 @@ I’m particularly interested in how technology can be used to create meaningful
 Outside of coding, I’m deeply passionate about football. It’s a sport that has taught me the importance of teamwork, discipline, and perseverance — qualities that I carry into my learning and projects.
 
 I believe in constant growth, whether it’s improving my technical abilities or learning from others in the tech community. As I continue my journey, I’m excited to keep exploring, creating, and developing both as a programmer and as a person.  
-  
-
-## 🌐 Socials:-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/absar_quazi.10?igsh=cXRsOWNkOWRrbm42) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/absarquazi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:absarquazi2612@email.com) 
-
 
 ### Learning and understanding about:-  
 <div align="center">  
