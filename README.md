@@ -10,11 +10,11 @@ Outside of coding, I’m deeply passionate about football. It’s a sport that h
 I believe in constant growth, whether it’s improving my technical abilities or learning from others in the tech community. As I continue my journey, I’m excited to keep exploring, creating, and developing both as a programmer and as a person.  
   
 
-## 🌐 Socials:
+## 🌐 Socials:-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/absar_quazi.10?igsh=cXRsOWNkOWRrbm42) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/absarquazi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:absarquazi2612@email.com) 
 
 
-### Learning  
+### Learning and understanding about:-  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
@@ -37,7 +37,7 @@ I believe in constant growth, whether it’s improving my technical abilities or
 <br/>  
 
 
-## Connect with me  
+## Connect with me :- 
 
 
 ### Social's  
